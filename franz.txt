@@ -1,0 +1,8 @@
+ID		Title		Author		Quantity		Price		Total Price
+3		rings		smarita		20			2000.00		40000.00
+500		see		francis		50			400.00		20000.00
+20		undead		pratik		1			1000.00		1000.00
+9		star		sulav		19			2000.00		38000.00
+32		ether		smarita		30			200.00		6000.00
+34		th		ery		3			80.00		240.00
+77		few		fdfcs		44			43434.00		1911096.00
